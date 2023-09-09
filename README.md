@@ -10,3 +10,7 @@ hello world !
 
   1. smile 1
   2. smile 2
+
+
+
+![IMG](shrek.jpg)
